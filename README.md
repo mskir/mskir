@@ -1,29 +1,9 @@
-<h1 align="center">Hellooo! 👋 I'm Journey ^^</h1>
-<h3 align="center">20 | BSIT-MWA Student</h3>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mskir&label=Profile%20views&color=0e75b6&style=flat" alt="mskir" />
+  <img src="https://i.pinimg.com/originals/04/47/f3/0447f30cec49d4d6bcd44704c737c3ad.gif" alt="cute GIF" width="700" />
 </p>
 
----
 
-<h3 align="left">💌 Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/journey-gamas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/journey-gamas" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/mz.neyy" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/soju4mei" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
-
----
+<h1>hellooo! i'm journey 🎀 </h1>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left"> 
@@ -40,7 +20,21 @@
   <a href="https://unity.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="Unity" width="40" height="40"/> </a>
 </p>
 
----
+<h3 align="left">💌 Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/journey-gamas-957368274/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://web.facebook.com/JournyGamas18/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+  </a>
+  <a href="https://instagram.com/mz.neyy" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/soju4mei" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
+</p>
 
 <h3 align="left">📊 GitHub Stats:</h3>
 <p align="left">
