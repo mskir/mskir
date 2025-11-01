@@ -3,7 +3,7 @@
 </p>
 
 
-<h1>hellooo! i'm journey 🎀 </h1>
+<h1 align="center">hellooo, i'm <i>Journey</i> !! 🎀 </h1>
 
 <h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left"> 
