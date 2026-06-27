@@ -46,7 +46,6 @@
   <img align="left" 
        src="https://nirzak-streak-stats.vercel.app/?user=mskir&theme=jolly&hide_border=false" 
        height="160"/>
-  &nbsp;
   <img 
        src="https://github-readme-stats.vercel.app/api/top-langs?username=mskir&show_icons=true&locale=en&layout=compact&theme=jolly" 
        alt="Top Languages" 
