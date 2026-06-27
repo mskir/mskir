@@ -4,7 +4,7 @@
 
 <h1 align="center">hellooo, i'm <i>Journey</i> !! 🎀 </h1>
 
-<h3 align="center">20 | IT Student </i></h3>
+<h3 align="center">21 | IT Student </i></h3>
 
 <h3 align="left">💻 Tech Stack:</h3>
 <p align="left">
