@@ -25,14 +25,6 @@
   <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="Unity" />
 </p>
 
-<h3 align="left">📚 Currently Self-Studying:</h3>
-<p align="left">
-  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=database&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
-</p>
-
 <h3 align="left">💌 Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/journey-gamas-957368274/" target="blank">
