@@ -45,7 +45,6 @@
 <p align="left">
   <img align="left" 
        src="https://nirzak-streak-stats.vercel.app/?user=mskir&theme=jolly&hide_border=false" 
-       alt="GitHub Streak Stats" 
        height="160"/>
   &nbsp;
   <img 
